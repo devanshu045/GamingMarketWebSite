@@ -26,7 +26,7 @@ const Loading = () => {
  
 
   return (
-    <div className="fixed top-0 left-0 w-full h-full flex items-center justify-center bg-gray-800">
+    <div className="fixed top-0 left-0 w-full h-full flex items-center justify-center bg-black">
       <div className="text-5xl font-bold flex space-x-2 text-white">
         {"Loading...".split("").map((letter, index) => (
           <span

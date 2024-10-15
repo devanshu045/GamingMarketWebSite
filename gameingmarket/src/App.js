@@ -4,7 +4,7 @@ import IndexLandingPage from './Components/LandingPage/IndexLandingPage';
 function App() {
   return (
     <div className="App">
-     jai ganesh
+     {/* jai ganesh */}
      <IndexLandingPage/>
     </div>
   );
